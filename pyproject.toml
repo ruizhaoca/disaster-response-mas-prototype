@@ -1,0 +1,7 @@
+[project]
+name = "disaster-response-mas-prototype"
+version = "0.1.0"
+description = "A small disaster-response multi-agent system prototype with coordination and safety gates."
+requires-python = ">=3.10"
+dependencies = []
+
